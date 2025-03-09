@@ -5,3 +5,4 @@ Table of Content:
 - [Granola](Sweet/granola.md)
 - [Saltines](Savory/tuzlu_kraker.md)
 - [ورق عنب](Savory/yaprak_sarma.md)
+- [شوربة شوفان](Savory/oats_soup.md)
