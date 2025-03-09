@@ -1,5 +1,8 @@
 # Granola
 
+## Rating
+⭐⭐⭐
+
 **Base:**
 - 2 cup oats
 - 1 cup extras (nuts, seeds, chia seeds, dried fruit)
